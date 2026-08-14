@@ -1,0 +1,21 @@
+response_id,prompt,response,accuracy,relevance,completeness,instruction_following,clarity,issue_label,review_status
+1,Explain photosynthesis in simple terms.,Plants use sunlight to turn water and carbon dioxide into glucose and oxygen.,5,5,5,5,5,None,Pass
+2,What is a Python list?,"A Python list is an ordered, mutable collection that can hold multiple values.",5,5,5,5,5,None,Pass
+3,Give two benefits of unit testing.,It helps catch regressions early and makes code changes safer.,5,5,4,5,5,Minor omission,Pass
+4,Summarize the purpose of a database.,A database stores and organizes data so applications can retrieve and update it efficiently.,5,5,5,5,5,None,Pass
+5,What does HTTP 404 mean?,It usually means the requested resource could not be found on the server.,5,5,5,5,5,None,Pass
+6,Explain recursion with a short example.,Recursion is when a function calls itself until a base condition is reached. Example: factorial(n) calls factorial(n-1).,5,5,5,5,5,None,Pass
+7,List three common SQL operations.,"SELECT, INSERT, and UPDATE are common SQL operations.",5,5,5,5,5,None,Pass
+8,What is overfitting in machine learning?,Overfitting occurs when a model learns training data too closely and performs poorly on unseen data.,5,5,5,5,5,None,Pass
+9,What is an API?,An API is a defined interface that allows software systems to communicate and exchange data or functionality.,5,5,5,5,5,None,Pass
+10,Give one security benefit of multi-factor authentication.,It reduces the risk of account compromise when a password is stolen.,5,5,4,5,5,Minor omission,Pass
+11,Explain cloud computing.,Cloud computing means using remote computing resources over a network instead of only local hardware.,4,5,4,5,4,Slightly broad,Pass
+12,What is a primary key?,A primary key identifies each record in a database table.,5,5,4,5,5,Minor omission,Pass
+13,Why is data validation important?,"Data validation checks whether input meets expected rules, reducing errors and improving reliability.",5,5,5,5,5,None,Pass
+14,Explain supervised learning.,Supervised learning trains a model using labeled examples so it can learn a mapping from inputs to known outputs.,5,5,5,5,5,None,Pass
+15,What is version control used for?,"Version control tracks changes to files and helps teams collaborate, review, and restore earlier versions.",5,5,5,5,5,None,Pass
+16,Give two examples of NoSQL databases.,MongoDB and Redis are examples of NoSQL databases.,5,5,5,5,5,None,Pass
+17,What is a software bug?,A software bug is behavior that does not match the intended or specified behavior of a system.,5,5,5,5,5,None,Pass
+18,Explain normalization in databases.,Normalization organizes relational data to reduce redundancy and improve consistency.,5,5,4,5,5,Minor omission,Pass
+19,What is machine learning?,Machine learning is a method where computers learn patterns from data to make predictions or decisions.,5,5,5,5,5,None,Pass
+20,Why should AI outputs be evaluated?,"Evaluation helps identify inaccurate, unsafe, irrelevant, or inconsistent outputs before they are relied upon.",5,5,5,5,5,None,Pass
