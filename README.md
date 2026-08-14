@@ -107,18 +107,18 @@ The purpose is to demonstrate the **evaluation workflow**, not to make claims ab
 
 ## Portfolio overview
 
-![Portfolio overview](docs/portfolio_overview.png)
+![Portfolio overview](images/portfolio_overview.png)
 
 ## Sample visualizations
 
 ### Criterion scores
 
-![Criterion scores](outputs/criterion_scores.png)
+![Criterion scores](images/criterion_scores.png)
 
 ### Review labels
 
-![Issue categories](outputs/issue_categories.png)
+![Issue categories](images/issue_categories.png)
 
 ### Overall score distribution
 
-![Score distribution](outputs/score_distribution.png)
+![Score distribution](images/score_distribution.png)
